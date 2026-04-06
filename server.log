@@ -1,0 +1,8 @@
+
+> test-xyp@1.0.0 start
+> node src/server.js
+
+◇ injecting env (5) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+Server is running on port 3000
+Health check: http://localhost:3000/health
+XYP API: http://localhost:3000/api/xyp
